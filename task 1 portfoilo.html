@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Header-->
+    <header>
+        <div class="logo">
+            <h1>Piyush Nandurkar</h1>
+            </div>
+            <div class="tagline">
+                <p>Information Techology Engineer</p>
+                </div>
+                </header>
+
+                <!--About-->
+                <section id="About">
+                    <h2>An IT undergraduate passionate about becoming skillful professional.</h2>
+                    <img src="piyush.png" alt="Piyush">
+                    <p>As a passionate web developer,I want strong html,css skills,javascript</p>
+                    </section>
+
+                    <!--skills-->
+                    <section id="skills">
+                        <h2>skills</h2>
+                        <ul>
+                            <li>c</li>
+                            <li>Java</li>
+                            <li>html,css,js</li>
+                        </ul>
+                        </section>
+
+               <!--projects-->
+               <section id="projects">
+                <h2>projects</h2>
+                <div class="projects">
+                    <h3>simple landing page</h3>
+                    <img arc="assests/pro1.jpg" alt="projects 1">
+                    <p>Developed a landing page with html and css.</p>
+                    </div>
+                    <div class="projects">
+                        <h3>calculator</h3>
+                        <img src="assests/pro2.jpg" alt="=projects 2">
+                        <p>created a calculator using html ,css and javascript.</p>
+                        </div>
+                        <section>
+
+                            <!--Resume-->
+                            <section id="resume">
+                                <h2>Resume</h2>
+                                <a href="assests/resume(1).pdf" download>download My Resume</a>
+                                </section>
+
+                        <!--contact-->
+                        <section id="contact">
+                            <h2>Contact</h2>
+                            <p>Email: <a href="piyushnandurkar8@gmail.com">piyushnandurkar8@gmail.com</a></p>
+                            <p>Phone: <a href="tel:9112761550">9112761550</a></p>
+                            </section>
+
+</body>
+</html>
